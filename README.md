@@ -1,5 +1,13 @@
 # 🎓 Academix – Student Result Management System
 
+![Status](https://img.shields.io/badge/status-Completed-brightgreen)
+![Built with](https://img.shields.io/badge/built%20with-Jakarta%20EE-blue)
+![Backend](https://img.shields.io/badge/backend-Java%20SE%2021-yellow)
+![Frontend](https://img.shields.io/badge/frontend-HTML%2C%20CSS%2C%20JSP-pink)
+![Database](https://img.shields.io/badge/database-MySQL-orange)
+![Server](https://img.shields.io/badge/server-Apache%20Tomcat-9cf)
+![Architecture](https://img.shields.io/badge/architecture-MVC-purple)
+
 Academix is a web-based application built using Jakarta EE technologies (Servlets, JSP, JDBC) to streamline student exam result management. It provides secure, role-based access for administrators, teachers, and students, replacing manual workflows with a centralized, efficient system.
 
 ## 🚀 Features
